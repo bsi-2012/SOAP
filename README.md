@@ -18,6 +18,8 @@ http://helpdev.com.br/2012/03/22/como-funciona-o-soap-protocolo-simples-de-acess
 
 http://wiki.pge.ce.gov.br/images/0/0b/SOAP.pdf
 
+http://www.fatecsp.br/dti/tcc/tcc00056.pdf
+
 
 Trabalhos sobre SOAP:
 
