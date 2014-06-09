@@ -25,7 +25,7 @@ Trabalhos sobre SOAP:
 
 SOAP x REST
 http://pt.slideshare.net/aknahs/soap-vs-rest-11863700?qid=970c8808-d604-4fa9-a1ef-b8cfbe7c55c2&v=qf1&b=&from_search=12
-
+http://www.profissionaisti.com.br/2009/03/webservices-conhecendo-o-rest/
 
 SOAP
 http://pt.slideshare.net/saatvi/simple-object-access-protocol
