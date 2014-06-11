@@ -200,6 +200,7 @@
         <li class="next"></li>
       </ul>
   </div></section>
+
   <section class="slide shout right"><div>
     <h2>Dependências e Integrações</h2>
   </div></section>
@@ -225,16 +226,27 @@
       <li class="next"></li>
     </ul>
   </div></section>
+
   <section class="slide shout right"><div>
     <h2>Vantagens e desvantagens</h2>
   </div></section>
   <section class="slide"><div>
-    <h2>Vantagens e desvantagens</h2>
+    <h2>Vantagens</h2>
     <ul>
-      <li class="next"></li>
-      <li class="next"></li>
-      <li class="next"></li>
-      <li class="next"></li>
+      <li class="next">Interoperabilidade entre sistemas</li>
+      <li class="next">Permite a comunicação entre sistemas protegidos por firewalls</li>
+      <li class="next">SOAP descreve completamente cada elemento na mensagem, facilitando o entendimento e a proteção contra erros.</li>
+      <li class="next">Os conceitos sobre segurança são melhores especificados e difundidos nos protocolos baseados em SOAP do que no protocolo HTTP, utilizado pelo estilo REST.</li>
+    </ul>
+  </div></section>
+
+  <section class="slide"><div>
+    <h2>Desvantagens</h2>
+    <ul>
+      <li class="next">Limita-se ao método POST</li>
+      <li class="next">É muito trabalhoso criar uma interface WSDL manualmente</li>
+      <li class="next">Todo serviço está sob a mesma URI</li>
+      <li class="next">Não pode ser armazenado em cache, pois o SOAP usa o método HTTP POST, o que é considerado não seguro, como vimos esse método pode alterar os dados de um recurso.</li>
     </ul>
   </div></section>
 
@@ -243,8 +255,8 @@
   </div></section>
   <section class="slide"><div>
     <h2>Conclusão</h2>
-    <p class="next"></p>
-    <p class="next"></p>
+    <p class="next">Apesar de antigo, o padrão SOAP é um dos mais utilizados ainda hoje, pois garante liberdade na hora da sua implementação, já que o mesmo não depende de um ambiente "fechado", ou seja, permite ser utilizado com qualquer linguagem de programação e vários protocolos, tais como HTTP e RPC.</p>
+    <p class="next">Vale lembrar que a escolha entre SOAP ou outro padrão (ex.: REST) depende do cenário em questão, e não das vantagens de x ou y.</p>
   </div></section>
 
   <section class="slide shout right"><div>
