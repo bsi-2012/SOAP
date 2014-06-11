@@ -30,3 +30,6 @@ http://www.profissionaisti.com.br/2009/03/webservices-conhecendo-o-rest/
 SOAP
 http://pt.slideshare.net/saatvi/simple-object-access-protocol
 
+### WEB SERVICES 
+
+http://www.webservicex.net/WS/WSDetails.aspx?CATID=12&WSID=56
